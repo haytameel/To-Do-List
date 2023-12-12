@@ -10,7 +10,7 @@ Este es el proyecto de una lista de tareas totalmente funcional diseñada con HT
 *  [Portfolio web](https://haytameel.github.io/portfolio/index.html)
 
 ## Ver ejemplo en vivo💻
--[EL PROYECTO EN TIEMPO REAL](https://haytameel.github.io/to-do-list/)
+-[EL PROYECTO EN TIEMPO REAL](https://haytameel.github.io/To-Do-List/)
 
 ## Contacto✉️
 Puedes contactarme a través de mi correo electrónico en haytameelharhari@gmail.com. 
